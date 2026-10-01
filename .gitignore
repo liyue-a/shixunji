@@ -1,0 +1,5 @@
+﻿.publish-config.txt
+publish.ps1
+*.cmd
+build/
+app/
